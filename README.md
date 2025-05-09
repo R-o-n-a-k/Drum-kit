@@ -1,4 +1,5 @@
 # Drum Kit
+![image](https://github.com/user-attachments/assets/460adcd4-8191-4ea4-8247-30ec8bb3180d)
 
 ## 🚀 About Project
 
